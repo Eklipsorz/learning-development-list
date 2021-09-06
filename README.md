@@ -25,6 +25,12 @@ This list shows some good website for learning website development
 2. JavaScript Info
 [英文版](https://javascript.info)
 
+3. CSScoke
+[中文版](https://ithelp.ithome.com.tw/users/20112550/ironman)
+
+4. freeCodeCamp
+[英文版](https://www.freecodecamp.org)
+
 ## issue
 
 
@@ -33,3 +39,7 @@ This list shows some good website for learning website development
 
 2. 你真的理解事件冒泡和事件捕获吗？
 [中文版](https://segmentfault.com/a/1190000012729080)
+
+
+3. B 站的前端崩了，后端的你别慌！
+[中文版](https://mp.weixin.qq.com/s/nFJFTmfUEaq0pfFL2rbdcQ)
