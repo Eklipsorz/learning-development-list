@@ -3,6 +3,7 @@ This list shows some good website for learning website development
 
 
 
+## e-book
 
 1. Clean Code concepts adapted for JavaScript: 描述如何把JavaScript寫得具有可維護性、具有易讀性
 
@@ -12,3 +13,23 @@ This list shows some good website for learning website development
 2. JavaScript：The.Definitive.Guide 7th: 白犀牛書，JavaScript經典聖經
 
 [中英文版](https://js.2019919.xyz)
+
+
+
+## website
+
+1. PJCHENder
+[中文版-1](https://pjchender.dev)
+[中文版-2](https://pjchender.blogspot.com)
+
+2. JavaScript Info
+[英文版](https://javascript.info)
+
+## issue
+
+
+1. w3c事件模型除了冒泡还有捕获，捕获阶段存在的意义是什么？
+[中文版](https://www.zhihu.com/question/39474653)
+
+2. 你真的理解事件冒泡和事件捕获吗？
+[中文版](https://segmentfault.com/a/1190000012729080)
