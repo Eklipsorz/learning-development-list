@@ -31,6 +31,8 @@ This list shows some good website for learning website development
 4. freeCodeCamp
 [英文版](https://www.freecodecamp.org)
 
+5. DEV Community ‍ 
+[英文版](https://dev.to)
 ## issue
 
 
@@ -43,3 +45,7 @@ This list shows some good website for learning website development
 
 3. B 站的前端崩了，后端的你别慌！
 [中文版](https://mp.weixin.qq.com/s/nFJFTmfUEaq0pfFL2rbdcQ)
+
+
+4. Dealing with side effects and pure functions in javascript
+[英文版](https://dev.to/vonheikemen/dealing-with-side-effects-and-pure-functions-in-javascript-16mg)
