@@ -33,8 +33,10 @@ This list shows some good website for learning website development
 
 5. DEV Community ‍ 
 [英文版](https://dev.to)
-## issue
 
+
+
+## issue
 
 1. w3c事件模型除了冒泡还有捕获，捕获阶段存在的意义是什么？
 [中文版](https://www.zhihu.com/question/39474653)
@@ -49,3 +51,11 @@ This list shows some good website for learning website development
 
 4. Dealing with side effects and pure functions in javascript
 [英文版](https://dev.to/vonheikemen/dealing-with-side-effects-and-pure-functions-in-javascript-16mg)
+
+
+5. 为什么 TCP 建立连接需要三次握手
+[中文版](https://draveness.me/whys-the-design-tcp-three-way-handshake/)
+
+
+6. How HTTPS Works in Layman's Terms - TLS 1.2 and 1.3
+[英文版](https://vinta.ws/code/how-https-works-in-laymans-terms-tls-1-2-and-1-3.html)
