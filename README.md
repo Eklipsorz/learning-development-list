@@ -14,6 +14,8 @@ This list shows some good website for learning website development
 
 [中英文版](https://js.2019919.xyz)
 
+3. Memory model: 開發並行計算必讀
+[英文版](https://research.swtch.com/mm)
 
 
 ## website
