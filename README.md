@@ -37,6 +37,26 @@ This list shows some good website for learning website development
 [英文版](https://dev.to)
 
 
+## Material Website
+
+1. 產生質感照片的網站
+[連結](https://picsum.photos/images)
+
+2. 產生假圖的網站
+[連結](http://lorempixel.com)
+
+3. 快速產生各種尺寸的素面假圖
+[連結](https://placeholder.com)
+
+4. 產生大頭照假圖的網站
+[連結](https://randomuser.me/)
+
+5. 設計師色碼
+[連結](https://color.adobe.com/zh/explore)
+
+6. 查詢網頁元素的屬性
+[連結](https://htmlreference.io/)
+
 
 ## issue
 
@@ -61,3 +81,4 @@ This list shows some good website for learning website development
 
 6. How HTTPS Works in Layman's Terms - TLS 1.2 and 1.3
 [英文版](https://vinta.ws/code/how-https-works-in-laymans-terms-tls-1-2-and-1-3.html)
+
