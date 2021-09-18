@@ -36,6 +36,17 @@ This list shows some good website for learning website development
 5. DEV Community ‍ 
 [英文版](https://dev.to)
 
+6. MVC (Model, View, Controller)
+[英文版](https://martinfowler.com/eaaDev/uiArchs.html#ModelViewController)
+
+7. Huli WebSite
+[中文版](https://lidemy.com/p/net101-js)
+
+8. CSS Selector 練習網站
+[英文版](https://flukeout.github.io/#)
+
+9. samanthaming
+[英文版](https://www.samanthaming.com)
 
 ## Material Website
 
