@@ -48,6 +48,9 @@ This list shows some good website for learning website development
 9. samanthaming
 [英文版](https://www.samanthaming.com)
 
+10. 阮一峰 ECMAScript 6 入门
+[中文版](https://es6.ruanyifeng.com/#docs/destructuring)
+
 ## Material Website
 
 1. 產生質感照片的網站
