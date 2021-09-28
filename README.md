@@ -100,3 +100,7 @@ This list shows some good website for learning website development
 6. How HTTPS Works in Layman's Terms - TLS 1.2 and 1.3
 [英文版](https://vinta.ws/code/how-https-works-in-laymans-terms-tls-1-2-and-1-3.html)
 
+
+7. Undoing a git rebase
+[英文版](https://stackoverflow.com/questions/134882/undoing-a-git-rebase)
+
