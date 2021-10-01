@@ -17,6 +17,8 @@ This list shows some good website for learning website development
 3. Memory model: 開發並行計算必讀
 [英文版](https://research.swtch.com/mm)
 
+4. 瀏覽器處理網頁的原理
+[中英文](https://www.html5rocks.com/zh/tutorials/internals/howbrowserswork/)
 
 ## website
 
