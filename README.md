@@ -56,6 +56,11 @@ This list shows some good website for learning website development
 11. CSS Tricks
 [英文版](https://css-tricks.com/archives/)
 
+12. 前端筆記
+[中文版](https://www.kancloud.cn/xiak/quanduan/300937)
+
+13. Inside look at modern web browser (part1-4)
+[英文版](https://developers.google.com/web/updates/2018/09/inside-browser-part1)
 
 ## Material Website
 
@@ -106,3 +111,9 @@ This list shows some good website for learning website development
 7. Undoing a git rebase
 [英文版](https://stackoverflow.com/questions/134882/undoing-a-git-rebase)
 
+
+8. 以谷歌浏览器为例，其JS引擎（V8）与渲染进程内的JS引擎线程是什么关系?
+[中文版](https://www.zhihu.com/question/399496616/answer/1265724480)
+
+9. Event Loop 運行機制解析 - 瀏覽器篇
+[中文版](https://yu-jack.github.io/2020/02/03/javascript-runtime-event-loop-browser/)
