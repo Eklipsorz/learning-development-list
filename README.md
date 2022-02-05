@@ -82,6 +82,11 @@ This list shows some good website for learning website development
 6. 查詢網頁元素的屬性
 [連結](https://htmlreference.io/)
 
+7. HTML entity code查詢網站
+[連結](https://www.toptal.com/designers/htmlarrows/)
+
+8. 對應尺寸的假圖
+[連結](https://loremflickr.com/)
 
 ## issue
 
